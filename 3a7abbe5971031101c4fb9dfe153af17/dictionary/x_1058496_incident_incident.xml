@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a94d37a9971031101c4fb9dfe153afa3" label="Incident" max_length="40" name="x_1058496_incident_incident" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="My string field" mandatory="true" max_length="40" name="my_string_field" type="string"/>
+    </element>
+</database>
